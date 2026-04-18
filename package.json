@@ -8,8 +8,8 @@
     "test": "jest --runInBand"
   },
   "dependencies": {
-    "dayjs": "^1.11.10",
     "axios": "^1.6.2",
+    "dayjs": "^1.11.20",
     "dotenv": "^16.3.1"
   },
   "devDependencies": {
